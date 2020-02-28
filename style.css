@@ -1,0 +1,46 @@
+
+
+
+
+.rong{
+    color: tomato;
+}
+
+.button-design{
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    color: white;
+}
+
+.place{
+    text-align: center;
+}
+.images-size{
+    box-shadow: 5px 5px 10px ;
+    border: violet;
+    height: 200px;
+    width:180px;
+    margin-bottom: 20px;
+    padding: 20px 30px;
+    border-radius: 10px;
+
+}
+#last-pic{
+    width: 100%;
+}
+.text-center{
+    text-align:center;
+}
+.lomba{
+
+    height: 600px;
+}
+
+.col-md-{
+    padding: 100px;
+}
+footer{
+    text-align: center;
+}
